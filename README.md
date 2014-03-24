@@ -20,7 +20,7 @@ Como Usar ?
 
 > Faça um clone do repositório
 
-	git clone https://github.com/buscapedev/buscape-js.git
+	git clone https://github.com/devbuscapecompany/buscape-js.git
 
 > Instancie a classe.
 > Use sua instância criada para chamar os métodos da classe.
